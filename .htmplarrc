@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "src/assets"
+  ],
+  "linting": true,
+  "defaultCss": "src/assets/styles/default.css"
+}
