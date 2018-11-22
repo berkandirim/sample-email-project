@@ -11,11 +11,13 @@
     "type": "git",
     "url": "https://github.com/berkandirim/sample-email-project.git"
   },
+  "author": "Berkan Dirim",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+      "htmplar": "^0.2.0"
+    },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
-    "eslint": "^4.19.1",
-    "htmplar": "latest"
+    "eslint": "^4.19.1"
   }
 }
