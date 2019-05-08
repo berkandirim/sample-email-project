@@ -14,7 +14,7 @@
   "author": "Berkan Dirim",
   "license": "ISC",
   "dependencies": {
-      "htmplar": "^0.2.0"
+      "htmplar": "latest"
     },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
